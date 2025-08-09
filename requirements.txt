@@ -1,2 +1,4 @@
-aiohttp
-python-socketio
+flask
+flask-socketio
+eventlet
+gunicorn
